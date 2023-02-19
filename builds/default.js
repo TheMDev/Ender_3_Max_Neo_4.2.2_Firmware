@@ -118,9 +118,15 @@ module.exports = {
             ["PREHEAT_1_TEMP_CHAMBER", 35],
             ["PREHEAT_1_FAN_SPEED", 255],
 
-            ["PREHEAT_2_LABEL", "ABS"],
-            ["PREHEAT_2_TEMP_HOTEND", 230],
-            ["PREHEAT_2_TEMP_BED", 100],
+            // ["PREHEAT_2_LABEL", "ABS"],
+            // ["PREHEAT_2_TEMP_HOTEND", 230],
+            // ["PREHEAT_2_TEMP_BED", 100],
+            // ["PREHEAT_2_TEMP_CHAMBER", 35],
+            // ["PREHEAT_2_FAN_SPEED", 255],
+
+            ["PREHEAT_2_LABEL", "PETG+"],
+            ["PREHEAT_2_TEMP_HOTEND", 240],
+            ["PREHEAT_2_TEMP_BED", 80],
             ["PREHEAT_2_TEMP_CHAMBER", 35],
             ["PREHEAT_2_FAN_SPEED", 255],
 
