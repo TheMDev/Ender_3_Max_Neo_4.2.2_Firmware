@@ -173,6 +173,8 @@ module.exports = {
 
             // Additional Features
             "PROBE_OFFSET_WIZARD",
+            "SHOW_REMAINING_TIME",
+            ["EVENT_GCODE_SD_ABORT", "G28XY\\nG0 F150 Y300"],
             "POWER_LOSS_RECOVERY",
 
             // SD Card
