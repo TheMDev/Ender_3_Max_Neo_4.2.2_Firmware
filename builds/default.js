@@ -102,7 +102,7 @@ module.exports = {
             // Bed Leveling
             "AUTO_BED_LEVELING_BILINEAR",
             ["GRID_MAX_POINTS_X", 5],
-            ["GRID_MAX_POINTS_Y", q`GRID_MAX_POINTS_X`],
+            ["GRID_MAX_POINTS_Y", 5],
             "EXTRAPOLATE_BEYOND_GRID",
             "Z_SAFE_HOMING",
 
