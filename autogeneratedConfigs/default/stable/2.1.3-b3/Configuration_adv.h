@@ -19,6 +19,8 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
+// @provenance: auto-generated | version: 2.1.3-b3 | variant: default/stable
+// @integrity: sha256:PLACEHOLDER — replace with `sha256sum Configuration_adv.h` after generation
 #pragma once
 
 /**
